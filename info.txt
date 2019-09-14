@@ -1,0 +1,3 @@
+https://accounts.spotify.com/authorize?client_id=642e147a2f824f8eb9ceaa4cb5e73447&scopes=playlist-read-private&response_type=code&redirect_uri=https%3A%2F%2Famyhynes.me%2F
+
+curl -H "Authorization: Basic NjQyZTE0N2EyZjgyNGY4ZWI5Y2VhYTRjYjVlNzM0NDc6NTdhMjcyMmQ0ZjVmNDg3OGJlODI3ZDUwMjVmNDQ1ZGE=" -d grant_type=authorization_code -d code=AQDFHBq1D9DVy9gkur6NY0l_ro-tWrl9PUJ3Ou1Kfkk6k_-MmKjy6AldmYffzkNZvMoKS9M7jMkXb3ux0LWCOLWDTx3y94QRmuRK5bq-gxetXwFvkQaHTJSjbAEyyBqac2hMcTRBiGKEpUTA6GSXZn64U5COs2WQQ3iuj6wIeKXL4bUd1fGnhMZ3NMI -d redirect_uri=https%3A%2F%2Famyhynes.me%2F https://accounts.spotify.com/api/token
